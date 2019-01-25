@@ -11,8 +11,7 @@ html{
 }
 
 body{
-    background-color:black;
-    
+    background-color:whitesmoke;
 }
 
 header {
@@ -662,4 +661,10 @@ Navigation
     text-align: center;
     padding-top: 480px;
     padding-bottom: 480px;
+  }
+
+  .imagebg{
+
+    background-image: url(/assets/images/) 
+
   }
