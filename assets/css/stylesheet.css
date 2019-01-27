@@ -72,11 +72,14 @@ h1 {
 }
 
 h2 {
+    font-family: 'Text Me One', sans-serif;
+    text-align: center;
     font-size: calc(3em + 0.2vw);
     font-weight: 600;
-    text-align: center;
     margin: 1.2em 0;
-    color: #111;
+    padding-top: 50%;
+    padding-bottom: 50%;
+    color: black !important;
 }
 
 p {
@@ -655,14 +658,6 @@ Navigation
     nav li a:before {
       width: 15px;
     }
-  }
-
-  .h2{
-    font-size: 20px;
-    text-align: center;
-    padding-top: 480px;
-    padding-bottom: 480px;
-    color: black !important;
   }
 
   .imagebg{
