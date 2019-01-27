@@ -662,7 +662,7 @@ Navigation
     text-align: center;
     padding-top: 480px;
     padding-bottom: 480px;
-    color: #111;
+    color: #111 !important;
   }
 
   .imagebg{
