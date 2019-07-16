@@ -1238,6 +1238,8 @@ header .logo a {
 	height: auto;
 	clear: both;
 	display: none;
+	border: 2px solid white;
+    border-top: 2px solid transparent;
 }
 .main-navigation > li {
 	display: block;
